@@ -1,25 +1,19 @@
-import logo from './logo.svg';
-import './App.css';
+import Header from "./components/Header";
+import Main from "./components/Main";
+import "./App.css";
+import img1 from "./assests/imgFolder/1.jpg";
+import img2 from "./assests/imgFolder/2.png";
+import img3 from "./assests/imgFolder/3.jpg";
+import img4 from "./assests/imgFolder/4.png";
+import img5 from "./assests/imgFolder/5.jpg";
+let imagesList = [img1, img2, img3, img4, img5];
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Header images={imagesList} />
+      <Main images={imagesList} />
     </div>
   );
 }
-
 export default App;
