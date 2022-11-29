@@ -1,6 +1,6 @@
 # Solo Leveling React App
 
-This is a Fan Page of popular korean commic Solo Leveling
+This is a Fan Page of popular korean comic Solo Leveling
 
 ## Project Images
 
