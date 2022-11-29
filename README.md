@@ -2,9 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<h3>Project Images</h3>
+## Project Images
+
+### Hero Section
 
 ![Screenshot](./Screenshot%202022-11-29%20105109.png)
+
+### Middle Section
+
 ![Screenshot](./Screenshot%202022-11-29%20105436.png)
 
 ## Available Scripts
