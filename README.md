@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 <h3>Project Images</h3>
 <img width=“100” alt=“Hero Section” src=“https://github.com/krishnaagarwal1506/solo-leveling/blob/master/Screenshot%202022-11-29%20105109.png”>
-![Hero Section](https://github.com/krishnaagarwal1506/solo-leveling/blob/master/Screenshot%202022-11-29%20105109.png)
+![Hero Section](/Screenshot%202022-11-29%20105109.png)
 
 ## Available Scripts
 
