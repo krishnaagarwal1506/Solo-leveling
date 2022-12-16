@@ -1,4 +1,5 @@
-# [Solo Leveling React App](https://krishnaagarwal1506.github.io/Solo-leveling/)
+# Solo Leveling React App
+### [LINK](https://krishnaagarwal1506.github.io/Solo-leveling/)
 
 This is a Fan Page of popular korean comic Solo Leveling
 
