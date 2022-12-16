@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/solo-leveling/static/css/main.4fcccba3.css",
+    "main.js": "/solo-leveling/static/js/main.e4c5ad4e.js",
+    "static/js/787.a2e509e2.chunk.js": "/solo-leveling/static/js/787.a2e509e2.chunk.js",
+    "static/media/4.png": "/solo-leveling/static/media/4.ecafba82fdb1968642bf.png",
+    "static/media/1.jpg": "/solo-leveling/static/media/1.866f2b42fc7b5451d487.jpg",
+    "static/media/2.png": "/solo-leveling/static/media/2.9b157acbd4372ca2256a.png",
+    "static/media/5.jpg": "/solo-leveling/static/media/5.239b46077ec24af4b0b6.jpg",
+    "static/media/3.jpg": "/solo-leveling/static/media/3.cf96270900d2f377dc0d.jpg",
+    "index.html": "/solo-leveling/index.html",
+    "main.4fcccba3.css.map": "/solo-leveling/static/css/main.4fcccba3.css.map",
+    "main.e4c5ad4e.js.map": "/solo-leveling/static/js/main.e4c5ad4e.js.map",
+    "787.a2e509e2.chunk.js.map": "/solo-leveling/static/js/787.a2e509e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fcccba3.css",
+    "static/js/main.e4c5ad4e.js"
+  ]
+}
