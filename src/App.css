@@ -79,3 +79,30 @@ body {
     top: -7%;
   }
 }
+@keyframes animate {
+  0% {
+    left: 0px;
+    top: 200px;
+  }
+  /* 25% {
+    left: 0px;
+    top: 150px;
+  }
+  50% {
+    left: 0px;
+    top: 100px;
+  }
+  75% {
+    left: 0px;
+    top: 50px;
+  } */
+  100% {
+    left: 0px;
+    top: 0px;
+  }
+}
+#animation_rise {
+  /* background-color: yellow; */
+  animation-name: animate;
+  animation-duration: 4s;
+}
